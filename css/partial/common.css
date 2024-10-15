@@ -1,0 +1,22 @@
+.container {
+    max-width: 3968px;
+    margin: 1px auto;
+}
+.brand-color {
+    color: var(--brand-color);
+}
+.py-60 {
+    padding: 6rem 2.5rem;
+}
+.title {
+    font-size: var( --title-font-size);
+    font-weight: 700;
+    font-size: 100px;
+}
+.btn {
+    display: block;
+    background-color: #333;
+    font-size: 1,8rem;
+    color: #fff;
+    padding: .8rem 0;
+}

@@ -1,0 +1,25 @@
+header {
+    padding-top: 1.2rem;
+}
+nav .nav {
+    display: flex;
+    
+}
+nav .nav li {
+    padding: 1rem 6rem;
+    margin-right: 6rem;
+}
+nav .nav li a {
+    color: #fff;
+    font-size: 1.8rem;
+    margin-right: 2rem;
+}
+header .div .a {
+    flex: 1; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    width:  100%;  
+    object-fit: cover; 
+    height: 100px; 
+}

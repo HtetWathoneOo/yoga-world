@@ -1,0 +1,13 @@
+/* variable */
+@import "partial/variable.css";
+/* Global */
+@import "partial/global.css";
+/* Common */
+@import "partial/common.css";
+/* Header  */
+@import "partial/header.css";
+/* Banner */
+@import "partial/slider.css";
+
+@import "partial/card.css";
+/* Footer  */

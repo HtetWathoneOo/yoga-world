@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: var(--secondary-font-family);
+    background-color: var(--bg-color);
+    color: var(--color);
+    line-height: 2.6rem;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

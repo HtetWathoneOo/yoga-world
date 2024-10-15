@@ -1,0 +1,11 @@
+:root {
+    --primary-font-family: 'Lato';
+    --secondary-font-family: 'Roboto';
+    
+    --title-font-size: 3.5rem;
+    --body-font-size: 1.3rem;
+
+    --brand-color: #f25c5c;
+    --color: yellow; 
+    --bg-color: skyblue;
+}

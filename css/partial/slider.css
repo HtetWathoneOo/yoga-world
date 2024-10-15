@@ -1,0 +1,47 @@
+.body-fit {
+    height: 65rem;
+    display: flex;
+    /* gap: 5rem; */
+}
+ .body-fit .body-fit-text {
+    /* flex: grow shrink basis */
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 2rem;
+ }
+ .body-fit .body-fit-text h1 {
+    margin: 2rem;
+ }
+ .body-fit .body-fit-text h1:nth-child(1) {
+    font-weight: 100;
+    font-size: 4.4rem;
+ }
+ .body-fit .body-fit-text h1:nth-child(1) span {
+    font-weight: 700;
+    text-transform: uppercase;
+ }
+ .body-fit .body-fit-text h1:nth-child(2) {
+    font-weight: 100;
+    font-size: 3.4rem;
+ }
+ .body-fit .body-fit-text h1:nth-child(2) span {
+    font-weight: 700;
+ }
+ .body-fit .body-fit-text h1:nth-child(3) {
+    text-transform: uppercase;
+    font-size: 1.9rem;
+ }
+ .body-fit .body-fit-img {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .body-fit .body-fit-img img {
+    width: 44rem;
+     /* width: 300px;
+     height: 300px;
+     object-fit: contain/ cover; */
+ }
